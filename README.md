@@ -7,7 +7,7 @@ Challenge the computer in a **Rock🪨-Paper📄-Scissors✂️** style cricket 
 
 ## 🎮 How to Play?  
  **1️⃣ Starting the Game ✨** 
-- Run the script and choose whether to start the game (yes/no).  
+- Run the script and choose whether to start the game `(yes/no)`.  
 - If you choose yes, the game begins! 🚀
 ---
  **2️⃣ Game Rules  📜**
@@ -47,7 +47,7 @@ Download and install Python from [python.org](https://www.python.org/).
 
 ### **2️⃣ Download or Clone the Repository**
 ```sh
-git clone https://github.com/YOUR_USERNAME/1v1-Cricket-Game.git
-cd 1v1-Cricket-Game
+git clone https://github.com/YOUR_USERNAME/1v1-CricketGame.git
+cd 1v1-CricketGame
 ```
-### **3️⃣ Enjoy the game! 🎮🏏**
+### **3️⃣ Or, simply download the `1v1Cricket_Game.exe` file and enjoy the game! 🎮🏏**
